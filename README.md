@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://web-developer-protfolio.netlify.app/](https://web-developer-protfolio.netlify.app/)
 
-- 💬 Ask me about **React.js, Javascript, html, css, bootstrap, tailwind Css, Node.JS, Express.JS, MongoDB**
+- 💬 Ask me about **React.js, Javascript, html, css, bootstrap, tailwind Css, Node.JS, Express.JS, MongoDB, Next.js, PostgreSQL, Prisma**
 
 - 📫 How to reach me **mdmohon6145@gmail.com**
 
