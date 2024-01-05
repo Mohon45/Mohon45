@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohon45&label=Profile%20views&color=0e75b6&style=flat" alt="mohon45" /> </p>
 
-- 🌱 I’m currently learning **C#, .net, .net core**
+- 🌱 I’m currently learning **C#, .net**
 
 - 👨‍💻 All of my projects are available at [https://web-developer-protfolio.netlify.app/](https://web-developer-protfolio.netlify.app/)
 
