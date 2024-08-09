@@ -48,7 +48,7 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a href="https://app.daily.dev/mohon"><img src="https://github.com/Mohon45/Mohon45/blob/main/devcard.svg" width="200" alt="Md. Mohon's Dev Card"/></a>
+<a href="https://app.daily.dev/mohon"><img src="https://github.com/Mohon45/Mohon45/blob/main/devcard.png" width="200" alt="Md. Mohon's Dev Card"/></a>
 
 </div>
 
