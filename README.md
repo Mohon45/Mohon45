@@ -52,7 +52,9 @@
 
 </div>
 
-### 🔭 I’m working - Project Coordinator In Mangrove Software & IT.
+### 🔭 I’m working - At Mangrove Software & IT.
+
+### 🎖️ My Role - Project Coordinator & Full Stack Developer.
 
 ### 🌱 I’m exploring - Advance Full-Stack Development & DevOps.
 
