@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Mohon45/Mohon45/main/images/mohon_cover.svg" />
 </a>
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: My Current Stats
 
 <br />
 <p align="center">
