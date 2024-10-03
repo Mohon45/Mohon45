@@ -62,6 +62,6 @@
 
 ### 🤔 I’m trying - Develop My Skill and Leading Experience.
 
-### ⚡ Fun fact - I love to take challenges and I can speak 3 languages.
+### ⚡ Fun fact - I love to take challenges and I can speak 3 languages (Bangla, English, Hindi).
 
 <br />
