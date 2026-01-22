@@ -5,10 +5,10 @@
 ## :chart_with_upwards_trend: My Current Stats
 
 <br />
-<!-- <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Mohon45&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p> -->
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mohon45&theme=tokyonight" />
+</p>
 
 ## :mailbox: Reach me out
 
