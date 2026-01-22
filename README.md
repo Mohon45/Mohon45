@@ -14,8 +14,16 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/Linkedin.png"></p>](https://www.linkedin.com/in/md-mohon-145a87216/?locale=en_US)
-[<img height="75" src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mdmohondev45)
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-mohon-145a87216/?locale=en_US">
+    <img height="75" src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/Linkedin.png" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mdmohondev45">
+    <img height="75" src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/Facebook.png" />
+  </a>
+</p>
+
 
 <br />
 
