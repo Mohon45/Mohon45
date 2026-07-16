@@ -19,13 +19,13 @@
     <img height="75" src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/Linkedin.png" />
   </a>
   
-  &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;
 
    <a href="https://x.com/developer_mohon" target="_blank">
     <img height="75" src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/x.png" />
   </a>
   
-  &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;
   
   <a href="https://www.facebook.com/mdmohondev45" target="_blank">
     <img height="75" src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/Facebook.png" />
