@@ -88,9 +88,9 @@
 
 <!-- Name and Role on Left -->
 <g filter="url(#glow)">
-    <text x="700" y="510" font-family="'Arial Black', Impact, sans-serif" font-size="210" font-weight="900" fill="none" stroke="url(#n1)" stroke-width="6" stroke-opacity="0.6" letter-spacing="4" text-anchor="middle">Md. Mohon</text>
+    <text x="700" y="550" font-family="'Arial Black', Impact, sans-serif" font-size="210" font-weight="900" fill="none" stroke="url(#n1)" stroke-width="6" stroke-opacity="0.6" letter-spacing="4" text-anchor="middle">Md. Mohon</text>
 </g>
-<text x="700" y="510" font-family="'Arial Black', Impact, sans-serif" font-size="210" font-weight="900" fill="none" stroke="#FFFFFF" stroke-width="2" letter-spacing="4" text-anchor="middle">Md. Mohon</text>
+<text x="700" y="550" font-family="'Arial Black', Impact, sans-serif" font-size="210" font-weight="900" fill="none" stroke="#FFFFFF" stroke-width="2" letter-spacing="4" text-anchor="middle">Md. Mohon</text>
 <line x1="250" y1="525" x2="550" y2="525" stroke="url(#n1)" stroke-width="2" stroke-opacity="0.8"/>
 <text x="400" y="570" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" fill-opacity="0.9" letter-spacing="3" text-anchor="middle">Software Developer</text>
 
