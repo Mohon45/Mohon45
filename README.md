@@ -42,9 +42,14 @@
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/css.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/typescript.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/nextjs.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/python.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/react.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/ai-integration.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/microservice.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/redis.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/sass.png"/>
