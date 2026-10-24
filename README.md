@@ -58,6 +58,11 @@
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/firebase.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/cloud.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/postgress.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/rest-api.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/graphql.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/flask-api.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/sqlite.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/typeorm.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/node.png"/>
@@ -66,6 +71,11 @@
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/prisma.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/swagger.png"/>
 <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/ubuntu.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/aws.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/digital-ocean.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/docker.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/vps.png"/>
+<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/github-actions.png"/>
 </p><br/>
 
 ## :eyes: Current overview
