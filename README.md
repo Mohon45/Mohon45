@@ -39,43 +39,45 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/css.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/typescript.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/nextjs.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/python.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/react.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/ai-integration.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/microservice.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/redis.png"/>
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/HTML.png" title="HTML5" alt="HTML5" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/css.png" title="CSS3" alt="CSS3" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/JavaScript.png" title="JavaScript" alt="JavaScript" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/typescript.png" title="TypeScript" alt="TypeScript" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/nextjs.png" title="Next.js" alt="Next.js" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/python.png" title="Python" alt="Python" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/react.png" title="React" alt="React" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/redux.png" title="Redux" alt="Redux" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/ai-integration.png" title="AI Integration" alt="AI Integration" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/microservice.png" title="Microservices" alt="Microservices" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/redis.png" title="Redis" alt="Redis" />
 </p>
+
 <p align="center">
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/cloud.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/postgress.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/rest-api.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/graphql.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/flask-api.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/sqlite.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/typeorm.png"/>
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/sass.png" title="Sass" alt="Sass" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/tailwind.png" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/Bootsrap.png" title="Bootstrap" alt="Bootstrap" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/firebase.png" title="Firebase" alt="Firebase" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/cloud.png" title="Google Cloud" alt="Google Cloud" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/postgress.png" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/rest-api.png" title="REST API" alt="REST API" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/graphql.png" title="GraphQL" alt="GraphQL" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/flask-api.png" title="Flask API" alt="Flask API" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/sqlite.png" title="SQLite" alt="SQLite" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/typeorm.png" title="TypeORM" alt="TypeORM" />
 </p>
+
 <p align="center">
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/node.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/express.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/mongo.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/prisma.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/swagger.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/ubuntu.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/aws.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/digital-ocean.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/docker.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/vps.png"/>
-<img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/github-actions.png"/>
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/node.png" title="Node.js" alt="Node.js" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/express.png" title="Express.js" alt="Express.js" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/mongo.png" title="MongoDB" alt="MongoDB" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/prisma.png" title="Prisma" alt="Prisma" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/swagger.png" title="Swagger" alt="Swagger" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/ubuntu.png" title="Ubuntu" alt="Ubuntu" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/aws.png" title="Amazon Web Services (AWS)" alt="Amazon Web Services (AWS)" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/digital-ocean.png" title="DigitalOcean" alt="DigitalOcean" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/docker.png" title="Docker" alt="Docker" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/vps.png" title="Virtual Private Server (VPS)" alt="Virtual Private Server (VPS)" />
+  <img src="https://github.com/Mohon45/Mohon45/blob/main/images/icons/github-actions.png" title="GitHub Actions" alt="GitHub Actions" />
 </p><br/>
 
 ## :eyes: Current overview
